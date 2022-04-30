@@ -1,4 +1,4 @@
-# Hi, 👋
+# Hi, <img src ="https://raw.githubusercontent.com/Andy-Python-Programmer/Andy-Python-Programmer/master/hello.gif" width="30" height="30" />
 
 I'm Giovanni, but just call me Gi. I am learning C++ (later down the road, C and assembly) and I am excited for what I have in store. 
 
