@@ -9,4 +9,4 @@ I'm Giovanni, but just call me Gi. I am learning C++ (later down the road, C and
 
 
 ## 💾 Projects
-* ![gOS](https://github.com/Giovamni/gOS) - x86_64 Operating System
+* ![gOS](https://github.com/Giovamni/gOS) - 64 bit Operating System
