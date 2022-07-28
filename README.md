@@ -6,7 +6,10 @@ I'm Giovanni, but just call me Gi. I am learning C++ (later down the road, C and
 
 *4/27/2022 10:00 PM* - I have kicked start my Github account and excited what the future is layout for me. 
   - I was able to talk to a discord server member (Kyota [repo @Kyota-exe]) today, he discussed with me about beginning my journey in OS (Operating System) development.
+  
+*7/28/2022 10:42 AM* - I began learning about Multithreading.
+  - I made a repo for my multithreading journey. This will help me keep track and try to accomplish something every now and again to fully understand multithreading. 
 
 
 ## 💾 Projects
-* ![gOS](https://github.com/Giovamni/gOS) - 64 bit Operating System
+* ![gOS](https://github.com/Giovamni/gOS) - 64 bit Operating System [PAUSED]
